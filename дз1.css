@@ -164,17 +164,17 @@ html, body {
  background-position: center center;
 }
 #landing .line-break {
- background: linear-gradient(red, gray, black);
+ background: linear-gradient(60deg, red, gray, black);
  width: 100%;
  margin: 0 auto;
 }
 #landing .line-break2 {
- background: linear-gradient(black, gray, red);
+ background: linear-gradient(60deg, black, gray, red);
  width: 100%;
  margin: 0 auto;
 }
 #landing .line-break3 {
- background: linear-gradient(gray, red, black);
+ background: linear-gradient(60deg, gray, red, black);
  width: 100%;
  margin: 0 auto;
 }
